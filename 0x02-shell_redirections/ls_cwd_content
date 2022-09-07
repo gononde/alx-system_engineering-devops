@@ -1,5 +1,5 @@
 total 80
-drwxr-xr-x 2 root root   331 Sep  7 06:49 .
+drwxr-xr-x 2 root root   331 Sep  7 06:58 .
 drwxr-xr-x 6 root root   138 Sep  7 02:06 ..
 -rwxr--r-- 1 root root    32 Sep  7 02:59 0-hello_world
 -rw------- 1 root root 12288 Sep  7 02:44 .0-hello_world.swp
@@ -12,8 +12,8 @@ drwxr-xr-x 6 root root   138 Sep  7 02:06 ..
 -rwxr--r-- 1 root root    71 Sep  7 04:44 7-file
 -rw------- 1 root root 12288 Sep  7 04:21 .7-file.swo
 -rw------- 1 root root 12288 Sep  7 04:17 .7-file.swp
--rwxr--r-- 1 root root    36 Sep  7 06:48 8-czd_state
+-rwxr--r-- 1 root root    36 Sep  7 06:54 8-cwd_state
 -rw-r--r-- 1 root root    12 Sep  7 04:44 *\"Best School"\\*$?*****:
 -rw-r--r-- 1 root root     0 Sep  7 04:05 iacta
--rw-r--r-- 1 root root     0 Sep  7 06:49 ls_cwd-content
+-rw-r--r-- 1 root root     0 Sep  7 06:58 ls_cwd_content
 -rw-r--r-- 1 root root     6 Sep  7 02:57 README.md
